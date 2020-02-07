@@ -1,7 +1,7 @@
 # Password-Manager
 A GUI that helps you to store your accounts, passwords, information all in one place.
 
-Just run *account-storage.py* and you have a readymade software to store all your passwords, IDs in one place.
+Just run *main.py* and you have a readymade software to store all your passwords, IDs in one place.
 
 You need to remember the password to open this software and access the details.
 
