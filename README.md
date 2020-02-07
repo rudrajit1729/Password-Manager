@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/rudrajit1729/Password-Manager) 
+
 # Password-Manager
 A GUI that helps you to store your accounts, passwords, information all in one place.
 
